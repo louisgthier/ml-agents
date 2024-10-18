@@ -83,7 +83,7 @@ the `develop` branch as it may have potential fixes for bugs and dependency issu
 (Optional to get bleeding edge)
 
 ```sh
-git clone --branch https://github.com/Unity-Technologies/ml-agents.git
+git clone https://github.com/Unity-Technologies/ml-agents.git
 ```
 
 #### Advanced: Local Installation for Development
